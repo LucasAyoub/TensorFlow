@@ -1,6 +1,6 @@
 # TensorFlow
 
-## Definição e características:
+## TensorFlow e Grafos computacionais:
 
 * Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor pode ser usado para representar conjuntos de dados N-dimensionais.
 * Um Grafo é um modelo matemático que representa relações entre objetos. Um grafo G = (V, E) consiste de um conjunto de vértices V (também chamados de nós), ligados por um conjunto de bordas ou arestas E.
